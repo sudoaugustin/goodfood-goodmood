@@ -13,7 +13,7 @@ export default props => {
       icon: <FacebookIcon />,
       href: 'https://www.facebook.com/GoodFOODGOODMOOde/',
     },
-    { label: 'pyaemonkyaw@gmail.com', icon: <MailIcon />, href: 'mailto:pyaemonkyaw@gmail.com' },
+    { label: 'pyaemonkyaw92@gmail.com', icon: <MailIcon />, href: 'mailto:pyaemonkyaw92@gmail.com' },
   ];
   return (
     <footer className=' bg-coolGray-50 w-full h-full py-6 md:py-12 px-4 md:px-8 flex md:justify-between'>
